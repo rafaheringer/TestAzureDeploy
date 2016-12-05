@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I.Love.Nibo", "I.Love.Nibo\I.Love.Nibo.csproj", "{5EBF9DF6-F5EF-43DD-AB88-683B8EC2DE62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I.Love.Nibo.Tests", "I.Love.Nibo.Tests\I.Love.Nibo.Tests.csproj", "{3724A68A-25AA-4DF8-B541-73C8FC0838C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EBF9DF6-F5EF-43DD-AB88-683B8EC2DE62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EBF9DF6-F5EF-43DD-AB88-683B8EC2DE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EBF9DF6-F5EF-43DD-AB88-683B8EC2DE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EBF9DF6-F5EF-43DD-AB88-683B8EC2DE62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3724A68A-25AA-4DF8-B541-73C8FC0838C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3724A68A-25AA-4DF8-B541-73C8FC0838C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3724A68A-25AA-4DF8-B541-73C8FC0838C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3724A68A-25AA-4DF8-B541-73C8FC0838C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
